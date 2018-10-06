@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GithubUsers</string>
+    <string name="no_users">No users found</string>
+    <string name="something_went_wrong">something went wrong</string>
+</resources>
